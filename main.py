@@ -14,4 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 def testfunction():
     return True
+def testfunction1():
+    return True
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
